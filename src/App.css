@@ -1,0 +1,11 @@
+.h1{
+    justify-content: center;
+    margin-bottom: 2px;
+    font-size: large;
+}
+
+.a{
+    justify-self: unset;
+    max-width: 100px;
+    font-size: small;
+}
